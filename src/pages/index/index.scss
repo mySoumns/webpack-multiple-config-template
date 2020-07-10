@@ -1,0 +1,20 @@
+$fontColor:#00f;
+body {
+    color:$fontColor;
+    background-image: url('../../img/service3.jpg');
+    .a {
+        font-size: 16px;
+    }
+}
+.box {
+    color: #f00;
+    transform: rotate(-45deg);
+}
+.box1 {
+    color: $fontColor;
+    transform: rotate(45deg);
+}
+#box {
+    color: #f00;
+    transform: rotate(-45deg);
+}
